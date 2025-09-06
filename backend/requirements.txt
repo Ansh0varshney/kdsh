@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+openai
+langchain
+transformers
+scikit-learn
+asyncio
+python-dotenv
